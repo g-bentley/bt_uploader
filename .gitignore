@@ -49,6 +49,6 @@ jspm_packages
 # Nodeclipse settings
 .project
 .settings/
-.tern-settings
+.tern-project
 .sublime-project
 
