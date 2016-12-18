@@ -1,16 +1,14 @@
-
-
 # bt_uploader
 
-
+RESTful file uploader micro service.
 
 ## Usage
 
-
+TBA.
 
 ## Developing
 
-
+TBA.
 
 ### Tools
 
